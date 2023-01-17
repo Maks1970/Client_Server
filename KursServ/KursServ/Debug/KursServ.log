@@ -1,0 +1,5 @@
+﻿  Server.cpp
+D:\VS_19\KursServ\KursServ\Server.cpp(34,10): warning C4101: recvbuf: неиспользованная локальная переменная
+D:\VS_19\KursServ\KursServ\Server.cpp(33,9): warning C4101: iSendResult: неиспользованная локальная переменная
+D:\VS_19\KursServ\KursServ\Server.cpp(111,13): warning C4101: byRecv: неиспользованная локальная переменная
+  KursServ.vcxproj -> D:\VS_19\KursServ\Debug\KursServ.exe

@@ -1,0 +1,8 @@
+﻿  Klient.cpp
+D:\VS_19\KursovKlient\KursovKlient\Klient.cpp(136,35): warning C4244: инициализация: преобразование "std::streamoff" в "long", возможна потеря данных
+D:\VS_19\KursovKlient\KursovKlient\Klient.cpp(145,85): warning C4244: аргумент: преобразование "std::streamsize" в "int", возможна потеря данных
+D:\VS_19\KursovKlient\KursovKlient\Klient.cpp(31,10): warning C4101: recvbuf: неиспользованная локальная переменная
+D:\VS_19\KursovKlient\KursovKlient\Klient.cpp(101,14): warning C4101: fileRequested: неиспользованная локальная переменная
+D:\VS_19\KursovKlient\KursovKlient\Klient.cpp(98,14): warning C4101: welcomeMsg: неиспользованная локальная переменная
+D:\VS_19\KursovKlient\KursovKlient\Klient.cpp(100,14): warning C4101: bufferFile: неиспользованная локальная переменная
+  KursovKlient.vcxproj -> D:\VS_19\KursovKlient\Debug\KursovKlient.exe
